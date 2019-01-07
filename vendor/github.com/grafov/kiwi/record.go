@@ -1,0 +1,3 @@
+package kiwi
+
+// sync.Pool?

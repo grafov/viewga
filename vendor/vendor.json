@@ -1,0 +1,73 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "tuWvLqmlX35ED1Gkhd5zeabvALo=",
+			"path": "github.com/faiface/glhf",
+			"revision": "82a6317ac380cdc61567d729fe48833d75b8108e",
+			"revisionTime": "2018-10-18T22:26:22Z"
+		},
+		{
+			"checksumSHA1": "75XgaNYsepljTg22QJfM9vf80Lc=",
+			"path": "github.com/faiface/mainthread",
+			"revision": "8b78f0a41ae388189090ac4506612659fa53082b",
+			"revisionTime": "2017-11-20T01:13:19Z"
+		},
+		{
+			"checksumSHA1": "oVlL9GfVcvFZIXSCC1m3WnO87M0=",
+			"path": "github.com/faiface/pixel",
+			"revision": "bdd9349b37bab404c3d3ece031cae1b219e7cab5",
+			"revisionTime": "2018-12-11T22:55:13Z"
+		},
+		{
+			"checksumSHA1": "G01bN9hZqrRBi4PGWiGzuhKTHDY=",
+			"path": "github.com/faiface/pixel/pixelgl",
+			"revision": "bdd9349b37bab404c3d3ece031cae1b219e7cab5",
+			"revisionTime": "2018-12-11T22:55:13Z",
+			"tree": true
+		},
+		{
+			"checksumSHA1": "RuSNpDMozLDLHZ4pkAibq4B1QCI=",
+			"path": "github.com/go-gl/gl/v3.3-core/gl",
+			"revision": "55b76b7df9d25d70b63e31a767f47158292b85d8",
+			"revisionTime": "2018-10-26T04:42:59Z"
+		},
+		{
+			"checksumSHA1": "ZRKCKADfmeANkw73za9/a0/1+QM=",
+			"path": "github.com/go-gl/glfw/v3.2/glfw",
+			"revision": "",
+			"tree": true
+		},
+		{
+			"checksumSHA1": "F8iyoM2AQgill7ybE9qzVrzSpdU=",
+			"path": "github.com/go-gl/mathgl/mgl32",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "Qx0mU2Q+mGbRlX2wCoptuUWF2gY=",
+			"path": "github.com/grafov/kiwi",
+			"revision": "8ca486cb105e6b8662fd31692badd2c7673a9217",
+			"revisionTime": "2018-11-22T17:26:26Z"
+		},
+		{
+			"checksumSHA1": "DTy0iJ2w5C+FDsN9EnzfhNmvS+o=",
+			"path": "github.com/pkg/errors",
+			"revision": "059132a15dd08d6704c67711dae0cf35ab991756",
+			"revisionTime": "2018-10-23T23:59:46Z"
+		},
+		{
+			"checksumSHA1": "tLJPdQuPL0hB6UBUahxl44V/qbQ=",
+			"path": "golang.org/x/image/colornames",
+			"revision": "cd38e8056d9b27bb2f265effa37fb0ea6b8a7f0f",
+			"revisionTime": "2018-11-15T22:27:58Z"
+		},
+		{
+			"checksumSHA1": "8C1Wo1n41eZziU9fDQT7Bic5WSg=",
+			"path": "golang.org/x/image/math/f32",
+			"revision": "cd38e8056d9b27bb2f265effa37fb0ea6b8a7f0f",
+			"revisionTime": "2018-11-15T22:27:58Z"
+		}
+	],
+	"rootPath": "github.com/grafov/viewga"
+}
